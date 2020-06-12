@@ -1,0 +1,2 @@
+# emotion_detection_server
+使用PaddlePaddle/models/emotion_detection样例代码封装的情感预测，数据为emotion_detection_textcnn-1.0.0.tar.gz保存所得
